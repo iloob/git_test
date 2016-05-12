@@ -10,6 +10,8 @@
 /* BB_AUDIT SUSv3 compliant */
 /* http://www.opengroup.org/onlinepubs/007904975/utilities/cat.html */
 
+/* foo */
+
 #include "libbb.h"
 
 /* This is a NOFORK applet. Be very careful! */
